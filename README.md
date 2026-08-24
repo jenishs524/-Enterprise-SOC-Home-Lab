@@ -109,7 +109,7 @@ cp .env.example .env
 
 Edit `.env` and set your secret credentials:
 ```env
-JWT_SECRET=461cdcbe3b447d9388deeed7a251683a97c9b1f04cc3d929215cef8d6178b4b2
+JWT_SECRET=
 LAB_ADMIN_PASSWORD=YourStrongPass123!
 PLATFORM_MODE=lab
 DATABASE_URL=sqlite:///soc_data.db
