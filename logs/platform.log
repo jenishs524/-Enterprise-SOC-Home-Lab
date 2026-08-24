@@ -1,0 +1,132 @@
+2026-08-23 18:56:24,360 - INFO - ============================================================
+2026-08-23 18:56:24,363 - INFO - 🛡️ SOC Platform Starting...
+2026-08-23 18:56:24,364 - INFO - Time: 2026-08-23T18:56:24.364584
+2026-08-23 18:56:24,364 - INFO - ============================================================
+2026-08-23 18:56:28,376 - INFO - Running... 5s | Events: 5 | Alerts: 0 | Incidents: 0
+2026-08-23 18:56:33,383 - INFO - Running... 10s | Events: 10 | Alerts: 0 | Incidents: 0
+2026-08-23 18:56:38,388 - INFO - Running... 15s | Events: 15 | Alerts: 0 | Incidents: 0
+2026-08-23 18:56:43,395 - INFO - Running... 20s | Events: 20 | Alerts: 0 | Incidents: 0
+2026-08-23 18:56:43,395 - WARNING - ⚠️ Test Alert #1 - Suspicious activity detected!
+2026-08-23 18:56:43,395 - CRITICAL - 🚨 Incident #1 created from Alert #1
+2026-08-23 18:56:48,402 - INFO - Running... 25s | Events: 25 | Alerts: 1 | Incidents: 1
+2026-08-23 18:56:53,408 - INFO - Running... 30s | Events: 30 | Alerts: 1 | Incidents: 1
+2026-08-23 18:56:58,413 - INFO - Running... 35s | Events: 35 | Alerts: 1 | Incidents: 1
+2026-08-23 18:57:03,423 - INFO - Running... 40s | Events: 40 | Alerts: 1 | Incidents: 1
+2026-08-23 18:57:03,423 - WARNING - ⚠️ Test Alert #2 - Suspicious activity detected!
+2026-08-23 18:57:03,423 - CRITICAL - 🚨 Incident #2 created from Alert #2
+2026-08-23 18:57:08,428 - INFO - Running... 45s | Events: 45 | Alerts: 2 | Incidents: 2
+2026-08-23 18:57:13,433 - INFO - Running... 50s | Events: 50 | Alerts: 2 | Incidents: 2
+2026-08-23 18:57:18,439 - INFO - Running... 55s | Events: 55 | Alerts: 2 | Incidents: 2
+2026-08-23 18:57:23,445 - INFO - Running... 60s | Events: 60 | Alerts: 2 | Incidents: 2
+2026-08-23 18:57:23,445 - WARNING - ⚠️ Test Alert #3 - Suspicious activity detected!
+2026-08-23 18:57:23,445 - CRITICAL - 🚨 Incident #3 created from Alert #3
+2026-08-23 18:57:28,451 - INFO - Running... 65s | Events: 65 | Alerts: 3 | Incidents: 3
+2026-08-23 18:57:33,471 - INFO - Running... 70s | Events: 70 | Alerts: 3 | Incidents: 3
+2026-08-23 18:57:38,476 - INFO - Running... 75s | Events: 75 | Alerts: 3 | Incidents: 3
+2026-08-23 18:57:43,481 - INFO - Running... 80s | Events: 80 | Alerts: 3 | Incidents: 3
+2026-08-23 18:57:43,481 - WARNING - ⚠️ Test Alert #4 - Suspicious activity detected!
+2026-08-23 18:57:43,481 - CRITICAL - 🚨 Incident #4 created from Alert #4
+2026-08-23 18:57:48,485 - INFO - Running... 85s | Events: 85 | Alerts: 4 | Incidents: 4
+2026-08-23 18:57:53,491 - INFO - Running... 90s | Events: 90 | Alerts: 4 | Incidents: 4
+2026-08-23 18:57:58,495 - INFO - Running... 95s | Events: 95 | Alerts: 4 | Incidents: 4
+2026-08-23 18:58:03,500 - INFO - Running... 100s | Events: 100 | Alerts: 4 | Incidents: 4
+2026-08-23 18:58:03,500 - WARNING - ⚠️ Test Alert #5 - Suspicious activity detected!
+2026-08-23 18:58:03,500 - CRITICAL - 🚨 Incident #5 created from Alert #5
+2026-08-23 18:58:08,505 - INFO - Running... 105s | Events: 105 | Alerts: 5 | Incidents: 5
+2026-08-23 18:58:13,511 - INFO - Running... 110s | Events: 110 | Alerts: 5 | Incidents: 5
+2026-08-23 18:58:18,517 - INFO - Running... 115s | Events: 115 | Alerts: 5 | Incidents: 5
+2026-08-23 18:58:23,525 - INFO - Running... 120s | Events: 120 | Alerts: 5 | Incidents: 5
+2026-08-23 18:58:23,525 - WARNING - ⚠️ Test Alert #6 - Suspicious activity detected!
+2026-08-23 18:58:23,525 - CRITICAL - 🚨 Incident #6 created from Alert #6
+2026-08-23 18:58:28,530 - INFO - Running... 125s | Events: 125 | Alerts: 6 | Incidents: 6
+2026-08-23 18:58:33,535 - INFO - Running... 130s | Events: 130 | Alerts: 6 | Incidents: 6
+2026-08-23 18:58:38,540 - INFO - Running... 135s | Events: 135 | Alerts: 6 | Incidents: 6
+2026-08-23 18:58:43,544 - INFO - Running... 140s | Events: 140 | Alerts: 6 | Incidents: 6
+2026-08-23 18:58:43,544 - WARNING - ⚠️ Test Alert #7 - Suspicious activity detected!
+2026-08-23 18:58:43,544 - CRITICAL - 🚨 Incident #7 created from Alert #7
+2026-08-23 18:58:48,552 - INFO - Running... 145s | Events: 145 | Alerts: 7 | Incidents: 7
+2026-08-23 18:58:53,568 - INFO - Running... 150s | Events: 150 | Alerts: 7 | Incidents: 7
+2026-08-23 18:58:58,587 - INFO - Running... 155s | Events: 155 | Alerts: 7 | Incidents: 7
+2026-08-23 18:59:03,594 - INFO - Running... 160s | Events: 160 | Alerts: 7 | Incidents: 7
+2026-08-23 18:59:03,594 - WARNING - ⚠️ Test Alert #8 - Suspicious activity detected!
+2026-08-23 18:59:03,595 - CRITICAL - 🚨 Incident #8 created from Alert #8
+2026-08-23 18:59:08,600 - INFO - Running... 165s | Events: 165 | Alerts: 8 | Incidents: 8
+2026-08-23 18:59:13,606 - INFO - Running... 170s | Events: 170 | Alerts: 8 | Incidents: 8
+2026-08-23 18:59:18,615 - INFO - Running... 175s | Events: 175 | Alerts: 8 | Incidents: 8
+2026-08-23 18:59:23,620 - INFO - Running... 180s | Events: 180 | Alerts: 8 | Incidents: 8
+2026-08-23 18:59:23,620 - WARNING - ⚠️ Test Alert #9 - Suspicious activity detected!
+2026-08-23 18:59:23,621 - CRITICAL - 🚨 Incident #9 created from Alert #9
+2026-08-23 18:59:28,626 - INFO - Running... 185s | Events: 185 | Alerts: 9 | Incidents: 9
+2026-08-23 18:59:33,630 - INFO - Running... 190s | Events: 190 | Alerts: 9 | Incidents: 9
+2026-08-23 18:59:38,636 - INFO - Running... 195s | Events: 195 | Alerts: 9 | Incidents: 9
+2026-08-23 18:59:43,641 - INFO - Running... 200s | Events: 200 | Alerts: 9 | Incidents: 9
+2026-08-23 18:59:43,642 - WARNING - ⚠️ Test Alert #10 - Suspicious activity detected!
+2026-08-23 18:59:43,643 - CRITICAL - 🚨 Incident #10 created from Alert #10
+2026-08-23 18:59:48,651 - INFO - Running... 205s | Events: 205 | Alerts: 10 | Incidents: 10
+2026-08-23 18:59:53,656 - INFO - Running... 210s | Events: 210 | Alerts: 10 | Incidents: 10
+2026-08-23 18:59:58,661 - INFO - Running... 215s | Events: 215 | Alerts: 10 | Incidents: 10
+2026-08-23 19:00:03,666 - INFO - Running... 220s | Events: 220 | Alerts: 10 | Incidents: 10
+2026-08-23 19:00:03,666 - WARNING - ⚠️ Test Alert #11 - Suspicious activity detected!
+2026-08-23 19:00:03,666 - CRITICAL - 🚨 Incident #11 created from Alert #11
+2026-08-23 19:00:08,673 - INFO - Running... 225s | Events: 225 | Alerts: 11 | Incidents: 11
+2026-08-23 19:00:13,678 - INFO - Running... 230s | Events: 230 | Alerts: 11 | Incidents: 11
+2026-08-23 19:00:18,685 - INFO - Running... 235s | Events: 235 | Alerts: 11 | Incidents: 11
+2026-08-23 19:00:23,743 - INFO - Running... 240s | Events: 240 | Alerts: 11 | Incidents: 11
+2026-08-23 19:00:23,744 - WARNING - ⚠️ Test Alert #12 - Suspicious activity detected!
+2026-08-23 19:00:23,744 - CRITICAL - 🚨 Incident #12 created from Alert #12
+2026-08-23 19:00:28,749 - INFO - Running... 245s | Events: 245 | Alerts: 12 | Incidents: 12
+2026-08-23 19:00:33,758 - INFO - Running... 250s | Events: 250 | Alerts: 12 | Incidents: 12
+2026-08-23 19:00:38,763 - INFO - Running... 255s | Events: 255 | Alerts: 12 | Incidents: 12
+2026-08-23 19:00:43,770 - INFO - Running... 260s | Events: 260 | Alerts: 12 | Incidents: 12
+2026-08-23 19:00:43,770 - WARNING - ⚠️ Test Alert #13 - Suspicious activity detected!
+2026-08-23 19:00:43,770 - CRITICAL - 🚨 Incident #13 created from Alert #13
+2026-08-23 19:00:48,778 - INFO - Running... 265s | Events: 265 | Alerts: 13 | Incidents: 13
+2026-08-23 19:00:53,787 - INFO - Running... 270s | Events: 270 | Alerts: 13 | Incidents: 13
+2026-08-23 19:00:58,792 - INFO - Running... 275s | Events: 275 | Alerts: 13 | Incidents: 13
+2026-08-23 19:01:03,797 - INFO - Running... 280s | Events: 280 | Alerts: 13 | Incidents: 13
+2026-08-23 19:01:03,797 - WARNING - ⚠️ Test Alert #14 - Suspicious activity detected!
+2026-08-23 19:01:03,798 - CRITICAL - 🚨 Incident #14 created from Alert #14
+2026-08-23 19:01:08,803 - INFO - Running... 285s | Events: 285 | Alerts: 14 | Incidents: 14
+2026-08-23 19:01:13,807 - INFO - Running... 290s | Events: 290 | Alerts: 14 | Incidents: 14
+2026-08-23 19:01:18,814 - INFO - Running... 295s | Events: 295 | Alerts: 14 | Incidents: 14
+2026-08-23 19:01:23,819 - INFO - Running... 300s | Events: 300 | Alerts: 14 | Incidents: 14
+2026-08-23 19:01:23,819 - WARNING - ⚠️ Test Alert #15 - Suspicious activity detected!
+2026-08-23 19:01:23,819 - CRITICAL - 🚨 Incident #15 created from Alert #15
+2026-08-23 19:01:28,824 - INFO - Running... 305s | Events: 305 | Alerts: 15 | Incidents: 15
+2026-08-23 19:01:33,828 - INFO - Running... 310s | Events: 310 | Alerts: 15 | Incidents: 15
+2026-08-23 19:01:38,834 - INFO - Running... 315s | Events: 315 | Alerts: 15 | Incidents: 15
+2026-08-23 19:01:43,838 - INFO - Running... 320s | Events: 320 | Alerts: 15 | Incidents: 15
+2026-08-23 19:01:43,839 - WARNING - ⚠️ Test Alert #16 - Suspicious activity detected!
+2026-08-23 19:01:43,839 - CRITICAL - 🚨 Incident #16 created from Alert #16
+2026-08-23 19:01:48,843 - INFO - Running... 325s | Events: 325 | Alerts: 16 | Incidents: 16
+2026-08-23 19:01:53,848 - INFO - Running... 330s | Events: 330 | Alerts: 16 | Incidents: 16
+2026-08-23 19:01:58,856 - INFO - Running... 335s | Events: 335 | Alerts: 16 | Incidents: 16
+2026-08-23 19:02:03,862 - INFO - Running... 340s | Events: 340 | Alerts: 16 | Incidents: 16
+2026-08-23 19:02:03,862 - WARNING - ⚠️ Test Alert #17 - Suspicious activity detected!
+2026-08-23 19:02:03,862 - CRITICAL - 🚨 Incident #17 created from Alert #17
+2026-08-23 19:02:08,872 - INFO - Running... 345s | Events: 345 | Alerts: 17 | Incidents: 17
+2026-08-23 19:02:13,889 - INFO - Running... 350s | Events: 350 | Alerts: 17 | Incidents: 17
+2026-08-23 19:02:18,893 - INFO - Running... 355s | Events: 355 | Alerts: 17 | Incidents: 17
+2026-08-23 19:02:23,898 - INFO - Running... 360s | Events: 360 | Alerts: 17 | Incidents: 17
+2026-08-23 19:02:23,898 - WARNING - ⚠️ Test Alert #18 - Suspicious activity detected!
+2026-08-23 19:02:23,898 - CRITICAL - 🚨 Incident #18 created from Alert #18
+2026-08-23 19:02:28,903 - INFO - Running... 365s | Events: 365 | Alerts: 18 | Incidents: 18
+2026-08-23 19:02:33,908 - INFO - Running... 370s | Events: 370 | Alerts: 18 | Incidents: 18
+2026-08-23 19:02:38,913 - INFO - Running... 375s | Events: 375 | Alerts: 18 | Incidents: 18
+2026-08-23 19:02:43,922 - INFO - Running... 380s | Events: 380 | Alerts: 18 | Incidents: 18
+2026-08-23 19:02:43,922 - WARNING - ⚠️ Test Alert #19 - Suspicious activity detected!
+2026-08-23 19:02:43,922 - CRITICAL - 🚨 Incident #19 created from Alert #19
+2026-08-23 19:02:48,927 - INFO - Running... 385s | Events: 385 | Alerts: 19 | Incidents: 19
+2026-08-23 19:02:53,935 - INFO - Running... 390s | Events: 390 | Alerts: 19 | Incidents: 19
+2026-08-23 19:02:58,942 - INFO - Running... 395s | Events: 395 | Alerts: 19 | Incidents: 19
+2026-08-23 19:03:03,952 - INFO - Running... 400s | Events: 400 | Alerts: 19 | Incidents: 19
+2026-08-23 19:03:03,952 - WARNING - ⚠️ Test Alert #20 - Suspicious activity detected!
+2026-08-23 19:03:03,953 - CRITICAL - 🚨 Incident #20 created from Alert #20
+2026-08-23 19:03:08,956 - INFO - Running... 405s | Events: 405 | Alerts: 20 | Incidents: 20
+2026-08-23 19:03:13,960 - INFO - Running... 410s | Events: 410 | Alerts: 20 | Incidents: 20
+2026-08-23 19:03:18,965 - INFO - Running... 415s | Events: 415 | Alerts: 20 | Incidents: 20
+2026-08-23 19:03:23,969 - INFO - Running... 420s | Events: 420 | Alerts: 20 | Incidents: 20
+2026-08-23 19:03:23,969 - WARNING - ⚠️ Test Alert #21 - Suspicious activity detected!
+2026-08-23 19:03:23,969 - CRITICAL - 🚨 Incident #21 created from Alert #21
+2026-08-23 19:03:29,000 - INFO - Running... 425s | Events: 425 | Alerts: 21 | Incidents: 21
+2026-08-23 19:03:34,004 - INFO - Running... 430s | Events: 430 | Alerts: 21 | Incidents: 21
