@@ -13,6 +13,8 @@ A high-performance, enterprise-grade Security Operations Center (SOC) platform, 
 ## 📸 Executive Command Center
 
 ![Enterprise SOC Command Center Overview](docs/dashboard_overview.png)
+<img width="2559" height="1286" alt="Screenshot 2026-08-24 at 21-39-59 Enterprise SOC Platform Command Center" src="https://github.com/user-attachments/assets/1fa040ad-fad2-410e-9247-ec49094e45ae" />
+
 
 ---
 
